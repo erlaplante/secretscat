@@ -7,7 +7,7 @@ Required:\
 `-d` Domain Name\
 `-u` Username\
 `-p` Password\
-`-dc` Domain Controller IP\
+`-dc` Domain Controller IP
 
 Optional:\
 `-h` Show help message\
