@@ -4,16 +4,16 @@ Runs secretsdump, attempts to crack dumped hashes with hashcat, then formats out
 
 #### Parameters
 Required:\
-`-d` Domain Name
-`-u` Username
-`-p` Password
-`-dc` Domain Controller IP
+`-d` Domain Name\
+`-u` Username\
+`-p` Password\
+`-dc` Domain Controller IP\
 
 Optional:\
-`-h` Show help message
-`-w` Wordlist location (defaults to: /usr/share/wordlists/rockyou.txt)
-`-r` Rules for hashcat
-`-O` Optimized mode for hashcat
+`-h` Show help message\
+`-w` Wordlist location (defaults to: /usr/share/wordlists/rockyou.txt)\
+`-r` Rules for hashcat\
+`-O` Optimized mode for hashcat\
 `-P` Proxychains prepended to secretsdump command
 
 ##### References
