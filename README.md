@@ -1,6 +1,6 @@
 ### secretscat
 
-Runs secretsdump, attempts to crack dumped hashes, then formats output in \<User\>:\<Password/Hash\> format. Credit to The Cyber Mentor's "Automated Password Hacking" video where he walks through the code. This is simply an implementation of that to test it, practice, and added some additional options.
+Runs secretsdump, attempts to crack dumped hashes with hashcat, then formats output in \<User\>:\<Password/Hash\> format. Credit to The Cyber Mentor's "Automated Password Hacking" video where he walks through the code. This is simply an implementation of that to test it, practice, and added some additional options.
 
 #### Parameters
 Required:\
